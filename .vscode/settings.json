@@ -1,0 +1,18 @@
+{
+    "files.exclude": {
+        "**/__pycache__": true,
+        "**/.venv": true,
+        "**/cropped_airplane.png": true,
+        "**/drawn_shapes.png": true,
+        "**/img_crop.png": true,
+        "**/Mango_blue.png": true,
+        "**/Mango_flip.png": true,
+        "**/Mango_gray.png": true,
+        "**/Mango_green.png": true,
+        "**/mango_half_resize.png": true,
+        "**/Mango_red.png": true,
+        "**/Mango_red_channel.png": true,
+        "**/Mango_resize.png": true,
+        "**/output.mp4": true
+    }
+}
