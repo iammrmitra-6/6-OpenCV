@@ -1,4 +1,4 @@
-# OpenCV Practice Project
+# OpenCV Practice Projects
 
 This folder contains basic OpenCV exercises and image-processing examples.
 
