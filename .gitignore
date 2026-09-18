@@ -5,3 +5,15 @@ __pycache__/
 *.pyd
 .ipynb_checkpoints/
 .DS_Store
+
+# Local image and video files
+*.png
+*.jpg
+*.jpeg
+*.gif
+*.bmp
+*.mp4
+*.avi
+*.mov
+*.mkv
+*.webm
